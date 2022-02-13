@@ -1,5 +1,5 @@
 City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
-2,Misasi,TZ,62.96,overcast clouds,-3.0,33.0833,
+2,Misasi,TZ,62.96,overcast clouds,-3,33.0833,
 5,Kondagaon,IN,64.87,scattered clouds,19.6,81.6667,AYAN MOTER
 9,Chuy,UY,66.56,overcast clouds,-33.6971,-53.4616,Nuevo Hotel Plaza
 13,Xuddur,SO,65.82,overcast clouds,4.1213,43.8894,Banjanay Hotel
@@ -29,7 +29,7 @@ City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
 109,Tessalit,ML,61.61,clear sky,20.1986,1.0114,
 117,Taltal,CL,67.55,clear sky,-25.4,-70.4833,Residencial Karime
 125,Bafia,CM,66.87,overcast clouds,4.75,11.2333,Rim touristique hôtel
-130,Laguna,US,67.98,clear sky,38.421,-121.4238,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
+130,Laguna,US,67.98,clear sky,38.421,-82,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
 131,Lilongwe,MW,64.74,light rain,-13.9669,33.7873,Spendwise furnished apartments.
 135,Pedra Branca,BR,69.03,clear sky,-5.4542,-39.7172,Chácara Verçoza
 136,Victoria,HK,64.94,overcast clouds,22.2855,114.1577,Mini Hotel Central
@@ -48,7 +48,7 @@ City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
 189,Iquique,CL,69.84,clear sky,-20.2208,-70.1431,Backpacker`s Hostel Iquique
 190,Ponta Delgada,PT,63.5,broken clouds,37.7333,-25.6667,Vila Nova Hotel
 191,Illapel,CL,69.57,clear sky,-31.6308,-71.1653,Hotel Londres
-202,Ilo,PE,70.0,overcast clouds,-17.6394,-71.3375,Torreblanca Hotel
+202,Ilo,PE,70,overcast clouds,-17.6394,-71.3375,Torreblanca Hotel
 223,Miraflores,MX,62.02,broken clouds,19.2167,-98.8083,Hotel Mansión
 224,Adrar,MR,60.01,broken clouds,20.5022,-10.0711,
 228,Coihaique,CL,66.81,few clouds,-45.5752,-72.0662,Diego De Almagro Coyhaique
@@ -56,7 +56,7 @@ City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
 240,Encruzilhada Do Sul,BR,66.79,clear sky,-30.5439,-52.5219,Conceição Palace Hotel
 243,Lodja,CD,69.76,heavy intensity rain,-3.4833,23.4333,
 244,Tshikapa,CD,68.95,overcast clouds,-6.4167,20.8,Hôtel Tshia-Muntu de Tshikapa
-252,Santa Barbara,US,67.14,clear sky,34.7333,-120.0343,Upper Ballard Campground
+252,Santa Barbara,US,67.14,clear sky,34.7333,-81,Upper Ballard Campground
 254,Kisesa,TZ,63.03,overcast clouds,-3.0833,34.15,
 257,Maltahohe,,68.63,broken clouds,-24.8333,16.9833,Maltahöhe Hotel
 259,Nsoko,SZ,65.35,clear sky,-27.0333,31.95,
@@ -66,7 +66,7 @@ City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
 270,Parana,AR,65.55,clear sky,-31.732,-60.5238,Howard Johnson by Wyndham Plaza Hotel Mayorazgo
 294,Naliya,IN,65.7,clear sky,23.2667,68.8333,jadeja jayendrasinh
 304,Marsabit,KE,67.32,overcast clouds,2.3284,37.9899,Chicho Hotel
-319,San Joaquin,US,68.25,clear sky,37.9333,-121.3011,University Plaza Waterfront Hotel
+319,San Joaquin,US,68.25,clear sky,37.9333,-70,University Plaza Waterfront Hotel
 327,Nizwa,OM,61.5,clear sky,22.9333,57.5333,Orient Apartments
 342,Youkounkoun,GN,69.87,clear sky,12.5333,-13.1333,
 352,Alta Floresta,BR,69.8,overcast clouds,-9.8756,-56.0861,Floresta Amazonica Hotel
@@ -97,9 +97,9 @@ City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
 491,Namwala,ZM,62.06,broken clouds,-15.7504,26.4384,Corner Point Lodge
 494,Telimele,GN,63.59,clear sky,10.9167,-13.3333,
 495,Bahia Blanca,AR,68.9,overcast clouds,-38.7196,-62.2724,Hotel Argos
-500,Catalina,US,66.79,clear sky,32.5056,-110.9211,Miraval Arizona Resort & Spa
+500,Catalina,US,66.79,clear sky,32.5056,-75,Miraval Arizona Resort & Spa
 501,Oyem,GA,67.33,scattered clouds,1.5995,11.5793,Commissariat de police
-514,Berberati,CF,66.0,clear sky,4.2612,15.7922,MAIRIE DE BERBERATI
+514,Berberati,CF,66,clear sky,4.2612,15.7922,MAIRIE DE BERBERATI
 517,Lake City,US,60.84,overcast clouds,30.1897,-82.6393,Ramada Limited Lake City
 533,Nzerekore,GN,63.86,clear sky,7.7562,-8.8179,Hotel de la Gare & Germanho Club
 536,Kousseri,CM,67.91,clear sky,12.0769,15.0306,Le Pilotis
@@ -122,7 +122,7 @@ City_ID,City,Country,Max Temp,Current Weather Description,Lat,Lng,Hotel Name
 620,Bloomingdale,US,68.32,broken clouds,27.8936,-82.2404,Travel Club for Free
 623,Vilhena,BR,68.49,moderate rain,-12.7406,-60.1458,Hotel Mirage
 626,Nuevo Imperial,PE,69.87,overcast clouds,-13.0754,-76.3172,Hotel Konford
-649,Paarl,ZA,68.0,broken clouds,-33.7338,18.9752,Grande Roche Hotel
+649,Paarl,ZA,68,broken clouds,-33.7338,18.9752,Grande Roche Hotel
 652,Rio Pardo,BR,69.28,scattered clouds,-29.9897,-52.3781,HOTEL PARENTE
 654,Chokwe,MZ,68.18,clear sky,-24.5333,32.9833,Complexo Sonho Real
 655,Mayahi,NE,60.48,clear sky,13.9553,7.6712,

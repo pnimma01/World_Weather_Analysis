@@ -28,6 +28,8 @@ followed by using Google maps API to show the vacation map.
 
 Finally, using Google maps API, we plot the directions to the vacation spots.
 
+Plotting the directions gave an eeror while selecting the list of cities to map. Confirmed that the syntax and the code is correct with a TA.
+
 ### **Challenges encountered:**
 1. The API call to openweathermap has a limitation on number of requests, and is time consuming in case of reruns.
 2. The google API call to map the directions/ itinerary keeps on giving errors.
